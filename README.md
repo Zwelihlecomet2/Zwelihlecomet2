@@ -1,4 +1,4 @@
-Hi 👋 My name is Zwelihle Comet
+Hi 👋 My name is Zwelihle Com
 ===============================
 
 Front-End-Developer
