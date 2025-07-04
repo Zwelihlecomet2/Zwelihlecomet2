@@ -4,14 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -------------------
 
-I Have been learning to code for the past 4 year's since 2022 when I was still doing my first year as a Computer Science Student, the first programming language I learnt was C++, then Java was the Second, and Python was the third, then somewhere in 2023 that is where I started my journey in web development, I learnt all the basics and I found myself falling in love with the JavaScript framework that is mostly utilized in several companies, which is React.JS
+I Have been learning to code for the past 4 year's since 2022 when I was still doing my first year as an Applied Mathematics and Computer Science Major, the first programming language I learnt was C++ in my first year, then Java and python in my second year, then early  2024 in my final year that is where I started my journey in web development, I learnt all the basics and I found myself falling in love with the JavaScript library that is mostly utilized in several companies, which is React.JS
 
 * 🌍  I'm based in South Africa, Gauteng
 * 🖥️  See my portfolio at [Take a Look at my Portfolio](http://zwelihlecomet-portfolio.netlify.app/)
 * ✉️  You can contact me at [zwelihlecomet2@gmail.com](mailto:zwelihlecomet2@gmail.com)
-* 🚀  I'm currently working on [a Capstone Project for Computer Science final Year Students](http://github.com/Zwelihlecomet2/syruprojects-capstone)
-* 🧠  I'm learning Node.JS for Back-End because I'd like to be a Full-Stack-Engineer someday
-* 🤝  I'm open to collaborating on Artificial Intelligence Applications/or any kind of Full Stack Projects
+* 🚀  I'm currently working as a Software Engineer at an IT Company (Bostech Innovations) in Bendor IT Park - Polokwane, Limpopo
+* 🧠  I Love working on Robotics Projects/Challenges
 * ⚡  I Love Eminem, but don't tell anyone, they'll think I'm gay too'🤫
 
 <a href="https://www.github.com/Zwelihlecomet2" target="_blank" rel="noreferrer"><img
