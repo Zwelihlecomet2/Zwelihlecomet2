@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zwelihle Comet
 ======================================================================================================================================
 
-Front-End-Developer
+Software Engineer
 -------------------
 
 I Have been learning to code for the past 4 year's since 2022 when I was still doing my first year as a Computer Science Student, the first programming language I learnt was C++, then Java was the Second, and Python was the third, then somewhere in 2023 that is where I started my journey in web development, I learnt all the basics and I found myself falling in love with the JavaScript framework that is mostly utilized in several companies, which is React.JS
